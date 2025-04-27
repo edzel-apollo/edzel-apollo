@@ -3,13 +3,26 @@
 
 [*My other profile*](https://github.com/malasone)
 
-#### 🌐 My Language Stats
+#### 🔖 Random Quote or Fun-Fact
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝Tandy TRS-80 Model I computer radiated so much interference that many games were designed so that an AM radio next to the computer could be used to provide sounds.❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+<!-- #### 🌐 My Language Stats
 
 <img alt="Language Stats" style="width:47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edzel-apollo&layout=compact&langs_count=6&theme=graywhite&hide=jupyter%20notebook"/>
 
 #### 🗓 My GitHub Card
-<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=edzel-apollo&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs">
+<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=edzel-apollo&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs"> -->
 
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edzel-apollo/edzel-apollo/main/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edzel-apollo/edzel-apollo/main/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/edzel-apollo/edzel-apollo/main/assets/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **malasone/malasone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
